@@ -2,7 +2,7 @@ from chardiff_html import __version__, chardiff_html
 
 
 def test_version():
-    assert __version__ == "0.1.0"
+    assert __version__ == "0.1.1"
 
 
 def test_chardiff_html():
